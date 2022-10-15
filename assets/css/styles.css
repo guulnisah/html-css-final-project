@@ -83,7 +83,7 @@ section {
 
 
 .background-container {
-    background-image: url('images/header-bck.png');
+    background-image: url('../images/header-bck.png');
     background-repeat: no-repeat;
     background-size: 100% 100%;
 }
@@ -795,7 +795,7 @@ small {
 }
 
 .clients-container {
-    background-image: url('images/back.png');
+    background-image: url('../images/back.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -835,7 +835,7 @@ small {
 
 @media screen and (max-width: 576px) {
     .clients-container {
-        background-image: url('images/carousel-small-back.png');
+        background-image: url('../images/carousel-small-back.png');
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center;
@@ -932,7 +932,7 @@ big screen */
 }
 
 .tasks-item li {
-    list-style: url("images/what-we-offer/tasks.svg") inside;
+    list-style: url("../images/what-we-offer/tasks.svg") inside;
     font-family: 'Roboto', sans-serif;
     font-size: 1.6rem;
     line-height: 2.5;
@@ -1018,7 +1018,7 @@ small screen */
         line-height: 2;
         text-align: center;
         color: #4D4D4D;
-        list-style: url("images/what-we-offer/tasks.svg") outside;
+        list-style: url("../images/what-we-offer/tasks.svg") outside;
         width: 400px;
         margin-left: auto;
         margin-right: auto;
@@ -1079,15 +1079,15 @@ iframe {
 
 
 /* .address-location:before {
-    background: url('images/address-location.svg') no-repeat center left / 15px 24px;
+    background: url('../images/address-location.svg') no-repeat center left / 15px 24px;
 }
 
 .address-phone:before {
-    background: url('images/address-phone.svg') no-repeat center left / 24px 24px;
+    background: url('../images/address-phone.svg') no-repeat center left / 24px 24px;
 }
 
 .address-email:before {
-    background: url('images/address-email.svg') no-repeat center left / 24px 24px;
+    background: url('../images/address-email.svg') no-repeat center left / 24px 24px;
 }
 
 .address-location:before,
@@ -1200,55 +1200,55 @@ iframe {
 } */
 
 .grid-image-1 {
-    background: url("images/image-grid/image-grid-1.png") no-repeat;
+    background: url("../images/image-grid/image-grid-1.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .grid-image-2 {
-    background: url("images/image-grid/image-grid-2.png") no-repeat;
+    background: url("../images/image-grid/image-grid-2.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .grid-image-3 {
-    background: url("images/image-grid/image-grid-3.png") no-repeat;
+    background: url("../images/image-grid/image-grid-3.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .grid-image-4 {
-    background: url("images/image-grid/image-grid-4.png") no-repeat;
+    background: url("../images/image-grid/image-grid-4.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .grid-image-5 {
-    background: url("images/image-grid/image-grid-5.png") no-repeat;
+    background: url("../images/image-grid/image-grid-5.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .grid-image-6 {
-    background: url("images/image-grid/image-grid-6.png") no-repeat;
+    background: url("../images/image-grid/image-grid-6.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .grid-image-7 {
-    background: url("images/image-grid/image-grid-7.png") no-repeat;
+    background: url("../images/image-grid/image-grid-7.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .grid-image-8 {
-    background: url("images/image-grid/image-grid-8.png") no-repeat;
+    background: url("../images/image-grid/image-grid-8.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
 
 .grid-image-9 {
-    background: url("images/image-grid/image-grid-9.png") no-repeat;
+    background: url("../images/image-grid/image-grid-9.png") no-repeat;
     background-size: cover;
     background-position: center;
 }
